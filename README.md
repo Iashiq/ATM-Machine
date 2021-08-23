@@ -7,6 +7,7 @@ This project is designed in such a way that the user must enter pin number. Once
 
 # Funtionalities:
 •	Log in using pin
+
 •	Change pin
 •	Cash withdraw if possible
 •	Cash deposit
