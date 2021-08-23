@@ -9,7 +9,11 @@ This project is designed in such a way that the user must enter pin number. Once
 •	Log in using pin
 
 •	Change pin
+
 •	Cash withdraw if possible
+
 •	Cash deposit
+
 •	Send money if money available
+
 •	Check balance
